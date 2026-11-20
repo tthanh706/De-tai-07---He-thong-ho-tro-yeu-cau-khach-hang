@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Assignment.Worker/Assignment.Worker.csproj" />
+  <Project Path="Notification.Service/Notification.Service.csproj" />
+  <Project Path="Support.Api/Support.Api.csproj" />
+  <Project Path="Support.Contracts/Support.Contracts.csproj" />
+  <Project Path="Support.Infrastructure/Support.Infrastructure.csproj" />
+  <Project Path="Support.Web/Support.Web.csproj" />
+</Solution>
